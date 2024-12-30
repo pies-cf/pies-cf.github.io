@@ -1,16 +1,11 @@
-- [Docs](./docs/)
-- [Blog](./docs/)
-- [Minecraft Protocol (47)](./protocol47/)
+These pages only contain information about the subject.
 
-<script>
-  // Allows old links to work
-  if (location.host == "docs.pies.cf") {
-    location.href = "/docs" + location.pathname
-  }
-  if (location.host == "blog.pies.cf") {
-    location.href = "/blog" + location.pathname
-  }
-  if (location.host == "protocol.pies.cf") {
-    location.href = "/protocol47" + location.pathname
-  }
-</script>
+Table of contents:
+- [FastBuilder (Premium Minecraft Plugin)](./fastbuilder/)
+- [PieLang (Custom Programming Language)](./pielang/)
+- [API (Api for pies.cf)](./api/)
+- [Minecraft Protocol 47](./protocol47/)
+
+Discontinued docs:
+- [Blog (Old)](./blog/)
+- [Tunnels](./tunnels/)
