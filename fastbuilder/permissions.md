@@ -1,5 +1,4 @@
-[Back](./)
-<br>
+# Permissions
 
 | Permission      | Description | Reference
 | --- | --- | ---

@@ -1,8 +1,8 @@
-## Main plugin
-> The main plugin.\
-> We recommend you read everything in the section.
+# Fastbuilder Plugin
 
-1. [Notes](./notes)
+> We recommend you read everything in theese section(s).
+
+1. [Notes](./notes) **Make sure to read this! This may fix your issues!**
 2. [Setup](./setup)
 3. [Config](./config)
 4. [Commands](./commands)

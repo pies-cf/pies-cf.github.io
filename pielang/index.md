@@ -1,4 +1,4 @@
-# PieLang docs
+# PieLang
 This is the docs for PieLang
 
 ## Comments

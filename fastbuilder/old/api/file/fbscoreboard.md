@@ -1,6 +1,3 @@
-[Back](../)
-<br>
-
 # Interface `FBScoreboard`
 
 ```java

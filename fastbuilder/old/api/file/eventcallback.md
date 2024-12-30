@@ -1,6 +1,3 @@
-[Back](../)
-<br>
-
 # Interface `EventCallBack`
 
 ```java

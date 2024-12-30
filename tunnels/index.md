@@ -1,3 +1,5 @@
+# Tunnels
+
 ## This service has been discontinued.
 This page contains the docs to the old tunnels.
 
@@ -21,15 +23,20 @@ Protocal Infomation:
 Last updated for protocal `v1`
 
 **Table of contents**
-- [What is this page about?](#what-is-this-page-about)
-- [What is a http tunnel?](#what-is-a-http-tunnel)
-- [How our tunnels work](#how-our-tunnels-work)
-- [Concept of these tunnels.](#concept-of-these-tunnels)
-- [What is the protocal?](#what-is-the-protocal)
-- [Connectcing to the socket](#connectcing-to-the-socket)
-- [Authenticating your tunnel](#authenticating-your-tunnel)
-- [Listening to a request](#listening-to-a-request)
-- [Responding to a request](#responding-to-a-request)
+- [Tunnels](#tunnels)
+  - [This service has been discontinued.](#this-service-has-been-discontinued)
+      - [Why?](#why)
+      - [What is \*.tunnel.pies.cf used for now?](#what-is-tunnelpiescf-used-for-now)
+      - [The rest of this page is the docs to the old tunnels.](#the-rest-of-this-page-is-the-docs-to-the-old-tunnels)
+  - [What is this page about?](#what-is-this-page-about)
+  - [What is a http tunnel?](#what-is-a-http-tunnel)
+  - [How our tunnels work](#how-our-tunnels-work)
+  - [Concept of these tunnels.](#concept-of-these-tunnels)
+  - [What is the protocal?](#what-is-the-protocal)
+  - [Connectcing to the socket](#connectcing-to-the-socket)
+  - [Authenticating your tunnel](#authenticating-your-tunnel)
+  - [Listening to a request](#listening-to-a-request)
+  - [Responding to a request](#responding-to-a-request)
 - [Other Info](#other-info)
 
 ## What is this page about?

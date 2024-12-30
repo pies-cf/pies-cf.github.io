@@ -1,12 +1,12 @@
-[Back](./)
-<br>
+# Fastbuilder API
 
 ***Last updated for FastBuilder v2.1.0***
 
-- [Getting the API Object](#getting-the-api-object)
-- [Custom scoreboard manager](#custom-scoreboard-manager)
-- [Listening to events](#listening-to-events)
-- [Fastbuilder Manager](#fastbuilder-manager)
+- [Fastbuilder API](#fastbuilder-api)
+  - [Getting the API Object](#getting-the-api-object)
+  - [Custom scoreboard manager](#custom-scoreboard-manager)
+  - [Listening to events](#listening-to-events)
+  - [Fastbuilder Manager](#fastbuilder-manager)
 
 ## Getting the API Object
 

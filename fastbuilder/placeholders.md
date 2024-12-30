@@ -1,5 +1,4 @@
-[Back](./)
-<br>
+# Placeholders
 
 Placeholders:
 - `%pb%` The players personal best

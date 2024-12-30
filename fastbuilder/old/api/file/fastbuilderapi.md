@@ -1,6 +1,3 @@
-[Back](../)
-<br>
-
 # Class: `FastbuilderAPI`
 
 The main class for interacting with the api

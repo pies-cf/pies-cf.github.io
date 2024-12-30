@@ -1,17 +1,15 @@
-[Back](./)
-<br>
+# Commands
 
-### Table of contents
-- [Table of contents](#table-of-contents)
-- [How this page works](#how-this-page-works)
-- [/fastbuilder](#fastbuilder)
-- [/fastbuildermap](#fastbuildermap)
-- [/logs](#logs)
-- [/stats](#stats)
-- [/pb](#pb)
-- [/replays](#replays)
-- [/fbcurrencyadd](#fbcurrencyadd)
-- [/fbreload](#fbreload)
+- [Commands](#commands)
+    - [How this page works](#how-this-page-works)
+    - [/fastbuilder](#fastbuilder)
+    - [/fastbuildermap](#fastbuildermap)
+    - [/logs](#logs)
+    - [/stats](#stats)
+    - [/pb](#pb)
+    - [/replays](#replays)
+    - [/fbcurrencyadd](#fbcurrencyadd)
+    - [/fbreload](#fbreload)
 
 ### How this page works
 To see the permission please look at [Permissions](./permissions)

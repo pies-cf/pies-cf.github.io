@@ -1,4 +1,7 @@
-# Setting up first map (Old method, do not use unless you cannot use the interactive fbsetup)
+# Setting up your first map
+
+> ## Disclaimer! This is the old method, do not use unless you cannot use the interactive /fbsetup [mode]
+
 > For this tutorial we wil be creating maps in the mode `test`
 1. Stand at where you spawn on the map and type `/fbmap set test 0 spawn`
     - `/fbmap set` - setting a location in the map

@@ -1,6 +1,3 @@
-[Back](../)
-<br>
-
 # Class `FBManager`
 
 | Method | Description | Extra info

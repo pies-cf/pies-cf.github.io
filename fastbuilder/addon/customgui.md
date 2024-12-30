@@ -1,12 +1,12 @@
-[Back](../)
-<br>
+# Custom GUI Addon
 
 **You need the CustomGUI addon for anything on this page to work.**
 
 Table of contents:
-- [Actions](#actions)
-- [List of options in each config section](#list-of-options-in-each-config-section)
-- [Example](#example)
+- [Custom GUI Addon](#custom-gui-addon)
+  - [Actions](#actions)
+  - [List of options in each config section](#list-of-options-in-each-config-section)
+  - [Example](#example)
 
 ## Actions
 

@@ -1,5 +1,4 @@
-[Back](../)
-<br>
+# Fastbuilder API
 
 API Last updated for: `v2.10.3`
 

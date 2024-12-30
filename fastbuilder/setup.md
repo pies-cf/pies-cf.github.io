@@ -1,5 +1,4 @@
-[Back](./)
-<br>
+# Setup
 
 # **Initial Setup**
 1. Put the license shown on the [license](http://pies.cf/panel/licenses/_/mc-fastbuilder) page into a file called `license.yml` in `/plugins/Fastbuilder`\

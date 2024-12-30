@@ -1,6 +1,8 @@
-Link: https://gist.github.com/TheVeryStarlk/fc2f3067818775c591c4ebb825b0e00c \
-Author: TheVeryStarlk\
-Saved for backups
+# Chunk format gist (Not mine)
+
+> Link: https://gist.github.com/TheVeryStarlk/fc2f3067818775c591c4ebb825b0e00c \
+> Author: TheVeryStarlk\
+> Saved for backups
 
 This article explains how chunk packets work in Minecraft 1.8 (PVN 47). I was motivated to write this due to the lack of easily understandable documentation for this version of Minecraft. I drew inspiration from the Wiki's [article](https://wiki.vg/index.php?title=Chunk_Format&oldid=7164). This article could have not been possible without the help of the members of the Minecraft Protocol Discord server.
 

@@ -1,5 +1,5 @@
-# Contents
-- [Contents](#contents)
+# Minecraft Protocol
+- [Minecraft Protocol](#minecraft-protocol)
 - [Introduction](#introduction)
 - [Creating a TCP server](#creating-a-tcp-server)
 - [Packet data types](#packet-data-types)

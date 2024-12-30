@@ -1,5 +1,4 @@
-[Back](../)
-<br>
+# PlaceholderAPI addon
 
 ## You need the PlaceholderAPI addon for anything on this page to work.
 

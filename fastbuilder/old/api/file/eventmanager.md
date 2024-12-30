@@ -1,6 +1,3 @@
-[Back](../)
-<br>
-
 # Class `EventManager`
 
 | Method | Description

@@ -1,5 +1,4 @@
-[Back](./)
-<br>
+# Notes
 
 Here are some things to keep in mind when installing / using fastbuilder:
 
