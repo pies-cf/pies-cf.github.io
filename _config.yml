@@ -3,3 +3,7 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: dark
+  header_pages: []
+  author:
+    name: hi12167pies
+    email: support@pies.cf
