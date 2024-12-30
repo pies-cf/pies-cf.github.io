@@ -1,10 +1,1 @@
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-minima:
-  skin: dark
-
-header_pages: []
-author:
-  name: hi12167pies
-  email: support@pies.cf
+remote_theme: "dracula/gh-pages"
