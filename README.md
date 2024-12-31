@@ -1,5 +1,7 @@
 # pies.cf markdown
 
-Used for `blog.pies.cf` `docs.pies.cf` and `protocol.pies.cf`
+Used for `docs.pies.cf`
 
-Feel free to commit to docs or protocol.s
+Contains stuff previously on `protocol.pies.cf` and `blog.pies.cf`
+
+Feel free to commit to docs or protocol.
